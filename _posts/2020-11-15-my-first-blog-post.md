@@ -1,5 +1,5 @@
 ---
 title: "my title"
-date: 15-10-2020
+date: 2020-11-15
 ---
 My first post in test site.
